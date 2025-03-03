@@ -1,0 +1,81 @@
+Title,Address,Description,Batch,Industry,Tags
+Airbnb,"San Francisco, CA, USA",Book accommodations around the world.,W09,Consumer,"Travel, Leisure and Tourism"
+Amplitude,"San Francisco, CA, USA",Digital Analytics Platform,W12,B2B,Analytics
+Coinbase,"San Francisco, CA, USA","Buy, sell, and manage cryptocurrencies.",S12,Fintech,Banking and Exchange
+DoorDash,"San Francisco, CA, USA",Restaurant delivery.,S13,Consumer,Food and Beverage
+Dropbox,"San Francisco, CA, USA",Backup and share files in the cloud.,S07,B2B,Productivity
+Ginkgo Bioworks,"Boston, MA, USA",Our mission is to make biology easier to engineer.,S14,Healthcare,Industrial Bio
+GitLab,"San Francisco, CA, USA",A complete DevOps platform delivered as a single application.,W15,B2B,"Engineering, Product and Design"
+Instacart,"San Francisco, CA, USA",Marketplace for grocery delivery and pickup,S12,Consumer,Food and Beverage
+Momentus,"Santa Clara, CA, USA",The space infrastructure services company,S18,Industrials,Aviation and Space
+Notable Labs,"Foster City, CA, USA",Personalized drug discovery for blood cancer.,W15,Healthcare,Diagnostics
+PagerDuty,"San Francisco, CA, USA",Real-time visibility into critical apps and services all in one place.,S10,B2B,"Engineering, Product and Design"
+Pardes Biosciences,"San Francisco, CA, USA",We break viruses,S20,Healthcare,Drug Discovery and Delivery
+Presto,"San Carlos, CA, USA",Digital meets physical for big chain restaurants,S10,B2B,Retail
+Rigetti Computing,"Berkeley, CA, USA",Quantum coherent supercomputing.,S14,Industrials,Manufacturing and Robotics
+Weave,"Lehi, UT, USA",Customer communication and payments platform.,W14,B2B,Office Management
+Oklo,"Santa Clara, CA, USA","Emission free, always on power from advanced fission power plants.",S14,Industrials,Energy
+Matterport,"Sunnyvale, CA, USA",Turn physical objects and environments into 3D models in seconds.,W12,Consumer,Virtual and Augmented Reality
+Embark Trucks,"San Francisco, CA, USA",Self-driving semi trucks.,W16,Industrials,Automotive
+Lucira Health,"Emeryville, CA, USA",Next generation infectious disease test kits,W15,Healthcare,Diagnostics
+Segment,"San Francisco, CA, USA","Software and APIs to collect, clean, and control customer data.",S11,B2B,Analytics
+Algolia,"San Francisco, CA, USA",A developer-friendly and enterprise-grade search API.,W14,B2B,"Engineering, Product and Design"
+Truebill,"Silver Spring, MD, USA",Live your best financial life,W16,Fintech,Consumer Finance
+Twitch,"San Francisco, CA, USA",A global community creating the future of live entertainment.,W07,Consumer,Content
+PlanGrid,"San Francisco, CA, USA",Mobile applications for the construction industry.,W12,Real Estate and Construction,Construction
+Bellabeat,"San Francisco, CA, USA",Tech-powered women's wellness.,W14,Consumer,Consumer Electronics
+Cruise,"San Francisco, CA, USA",Self-driving cars.,W14,Industrials,Automotive
+Benchling,"San Francisco, CA, USA",Unlocking the power of biotech with modern software for modern science,S12,B2B,N/A
+Casetext,"San Francisco, CA, USA",We make the world's laws free and understandable.,S13,B2B,Legal
+Bird,"Amsterdam, NH, Netherlands",The world’s largest omnichannel communications platform,S16,B2B,"Engineering, Product and Design"
+Brex,"San Francisco, CA, USA","Business accounts, corporate cards, and spend management software.",W17,Fintech,Banking and Exchange
+The Athletic,"San Francisco, CA, USA",Subscription sports media.,S16,Consumer,Content
+Codecademy,"New York, NY, USA",The leading online learning platform for technical skills.,S11,Education,N/A
+Checkr,"San Francisco, CA, USA",People infrastructure for the future of work,S14,B2B,Human Resources
+Lever,"San Francisco, CA, USA",Talent Acquisition Suite that combines ATS + Talent CRM,S12,B2B,Recruiting and Talent
+Clipboard Health,Remote,Connects healthcare facilities with nurses nearby.,W17,Healthcare,Healthcare Services
+Heap,"San Francisco, CA, USA",Captures user interactions with no code to generate analytics.,W13,B2B,Analytics
+Sendwave,"Boston, MA, USA","Instant, no fee international remittances.",W12,Fintech,Payments
+Deel,"San Francisco, CA, USA",The all-in-one HR and payroll platform for global teams,W19,B2B,Finance and Accounting
+Clever,"San Francisco, CA, USA",The platform that powers technology in the classroom.,S12,Education,N/A
+Caper,,Plug-and-play cashier-less retail powered by computer vision and AI,W16,B2B,Retail
+EquipmentShare,"Columbia, MO, USA",Cloud solutions for the construction industry.,W15,Real Estate and Construction,Construction
+Reddit,"San Francisco, CA, USA",The frontpage of the internet.,S05,Consumer,Content
+Fivestars,"San Francisco, CA, USA",Customer loyalty and payments platform for small businesses.,W11,B2B,Retail
+Machine Zone,"Palo Alto, CA, USA",Pioneers of mobile social gaming.,W08,Consumer,Gaming
+Faire,"San Francisco, CA, USA",The global online platform empowering independent retail.,W17,B2B,Retail
+Fivetran,"Oakland, CA, USA",The leader in automated data movement,W13,B2B,Infrastructure
+Optimizely,"San Francisco, CA, USA",The first all-in-one operating system for marketing,W10,B2B,"Engineering, Product and Design"
+Flexport,"San Francisco, CA, USA",Platform for global logistics.,W14,B2B,Supply Chain and Logistics
+WePay,"Redwood City, CA, USA",Payments for platform businesses.,S09,Fintech,Payments
+Weebly,"San Francisco, CA, USA",Build a free website that grows with your business.,W07,B2B,Marketing
+Flock Safety,"Atlanta, GA, USA",The first public safety operating system that eliminates crime.,S17,B2B,"Engineering, Product and Design"
+Sqreen,"San Francisco, CA, USA",Sqreen is the application security platform for the modern enterprise,W18,B2B,Security
+NURX,"New York, NY, USA","Medicine or testing kit, prescribed online and delivered to your door.",W16,Healthcare,Consumer Health and Wellness
+Go1,"San Francisco, CA, USA",A learning platform that enables you to train your staff or customers.,S15,B2B,Human Resources
+CoreOS,"San Francisco, CA, USA",Open source tools of modern distributed systems.,S13,B2B,Infrastructure
+Bear Flag Robotics,"Newark, CA, USA",Autonomous driving technology for farm tractors.,W18,Industrials,Agriculture
+GOAT Group,"Los Angeles, CA, USA","Platform for the greatest products from the past, present and future.",W11,Consumer,Apparel and Cosmetics
+Heroku,"San Francisco, CA, USA",Enabling developers to build and run applications in the cloud.,W08,B2B,Infrastructure
+Groww,"Bengaluru, KA, India","Making financial services simple, transparent and delightful.",W18,Fintech,N/A
+GrubMarket,"San Francisco, CA, USA",AI-powered technology enabler and digital transformer of American…,W15,B2B,Supply Chain and Logistics
+HelloSign,"San Francisco, CA, USA",eSignature software for small and mid-market businesses.,W11,B2B,Productivity
+Zenefits,"San Francisco, CA, USA","HR for small businesses: onboarding, payroll and benefits.",W13,B2B,Human Resources
+Gusto,"San Francisco, CA, USA",Provides growing businesses with everything to take care of their team,W12,B2B,Human Resources
+Honeylove,"Los Angeles, CA, USA",Honeylove makes functional undergarments for women,S18,Consumer,Apparel and Cosmetics
+Modern Fertility,"San Francisco, CA, USA",At-home fertility test for women who aren't ready for kids right now…,S17,Healthcare,Consumer Health and Wellness
+Cognito,"Palo Alto, CA, USA","Frictionless, modern identity verification that starts with just a…",S14,B2B,"Engineering, Product and Design"
+OpenInvest,"San Francisco, CA, USA",Values based personalization at scale for asset and wealth management,S15,Fintech,N/A
+Meesho,"Bengaluru, KA, India",Democratizing internet commerce for everyone in India,S16,B2B,Retail
+Mixpanel,"San Francisco, CA, USA",Mixpanel is event analytics for builders that need answers.,S09,B2B,Analytics
+Paystack,"Lagos, LA, Nigeria",Modern payments infrastructure for Africa,W16,Fintech,Payments
+Moxion Power Co.,"Richmond, CA, USA",Mobile Energy Storage Technology,W21,Industrials,Energy
+DrChrono,"CA, USA",The essential platform for modern medical practices and patients.,W11,Healthcare,Healthcare IT
+OMGPop,"New York, NY, USA",An independent flash game studio.,S06,Consumer,Gaming
+Newfront,"San Francisco, CA, USA",Modern insurance brokerage.,W18,Fintech,Insurance
+North,"Kitchener, ON, Canada",Wearable computing hardware: biosignal gesture recognition,W13,Consumer,Virtual and Augmented Reality
+Nowports,,The core engine of supply chain in LATAM,W19,B2B,Supply Chain and Logistics
+Odeko,"New York, NY, USA",Our operations software makes it easier to run--and grow--your cafe,S19,B2B,N/A
+GitPrime,"Durango, CO, USA",Visibility and analytics for software development leaders.,W16,B2B,"Engineering, Product and Design"
+Proxy,"San Francisco, CA, USA",Smart ring digital wallet,S16,Consumer,Consumer Electronics
+FutureAdvisor,"San Francisco, CA, USA",The online financial management service for everyone.,S10,Fintech,Consumer Finance
